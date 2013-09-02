@@ -1,4 +1,4 @@
-Smartan OS - French translation
+Smartisan OS - French translation
 ============
 
-Smartan OS XML's French Translation
+Smartisan OS XML's French Translation
