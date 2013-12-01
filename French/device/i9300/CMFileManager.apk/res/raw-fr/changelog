@@ -1,0 +1,36 @@
+Gestionnaire de fichiers CyanogenMod
+========================
+
+Version 1.0.1
+-------------
+* Support du NFC
+* Support des thèmes
+
+Version 1.0.0
+-------------
+Version initiale.
+
+Caractéristiques:
+
+* 3 modes de navigation:
+   · Mode sans échec (par défaut)
+   · Demande du mode utilisateur
+   · Le mode Root
+* Histoire
+* Favoris
+* Recherche
+* Choix navigation
+* Navigation par fil d'Ariane 
+* Sélection multiple
+* Sélection du mode de page
+* Sélection Ordre de tri
+* Afficher / Cacher les fichiers système
+* Compression et décompression
+* Ajouter des raccourcis sur le bureau
+* Monter et démonter les systèmes de fichiers
+* Modifier les autorisations de fichiers
+* Informations sur le système de fichiers
+* Informations sur le fichier
+* Ouvrir et Ouvrir avec
+* Envoyer à
+* Éditeur interne

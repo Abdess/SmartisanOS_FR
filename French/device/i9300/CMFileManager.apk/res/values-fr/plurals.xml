@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fso_properties_dialog_folders">
+        <item quantity="other">%1$d dossiers</item>
+        <item quantity="zero">0 dossier</item>
+        <item quantity="one">1 dossier</item>
+    </plurals>
+    <plurals name="fso_properties_dialog_files">
+        <item quantity="other">%1$d fichiers</item>
+        <item quantity="zero">0 fichier</item>
+        <item quantity="one">1 fichier</item>
+    </plurals>
+    <plurals name="search_found_items">
+        <item quantity="other">%d éléments trouvés</item>
+        <item quantity="zero">Aucun élément trouvé</item>
+        <item quantity="one">1 élément trouvé</item>
+    </plurals>
+</resources>
