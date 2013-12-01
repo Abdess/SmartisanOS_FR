@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="update_check_values">
+        <item>-2</item>
+        <item>-1</item>
+        <item>43200</item>
+        <item>86400</item>
+        <item>604800</item>
+        <item>1209600</item>
+        <item>2419200</item>
+    </string-array>
+    <string-array name="update_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
